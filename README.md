@@ -1,102 +1,90 @@
-<!-- Profile Header -->
-<p align="center">
-  <h1 align="center">✨ Shoaib Munir ✨</h1>
-  <h3 align="center">Full Stack Developer • Head of Projects & Technical Sales</h3>
-  <h4 align="center">React / Next.js • .NET Core • SQL Server • ERP & Fleet Management Systems</h4>
-  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Intelligent+Web+Apps;OpenAI+SDK+Expert;Next.js+%7C+TypeScript+%7C+Python;AI+Agents+Enthusiast;Full+Stack+Developer)
+<div align="center">
+  
+# ✨ Shoaib Munir ✨  
+### Full Stack Developer • Head of Projects & Technical Sales • ERP & Fleet Systems Expert
+  
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+Enterprise+Web+Apps;Fleet+Management+%26+MDVR+Systems;Next.js+%7C+React+%7C+.NET+Core;SQL+Server+Performance+Expert;Cloudflare+%7C+pfSense+%7C+IIS+Deployments)
 
-</p>
-
----
-
-## 👋 About Me
-
-- 🚀 Full-stack engineer building **fleet tracking, ERP, and school management** systems  
-- 🧠 Strong in **React / Next.js**, **ASP.NET Core**, **SQL Server**, and complex **stored procedures & reporting**
-- 📡 Working with **vehicle tracking, MDVR / camera integrations, temperature dashboards, and Grafana**
-- 🏫 Also managing **school & coaching solutions** (admissions, fees, exams, portals, dashboards)
-- 🤖 Exploring **AI & GenAI tools** (Claude, SpeciKit, automation, AI-powered documentation & books)
-- ☁️ Comfortable with **Windows Server, IIS, Cloudflare, pfSense, Docker, networking & deployment**
-- 🤝 Open for collaboration on **enterprise dashboards, reporting, and performance-critical systems**
-- 📚 Always learning and documenting step-by-step guides so teams can follow easily
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow" />
-  <img src="https://img.shields.io/badge/TypeScript--blue" />
-  <img src="https://img.shields.io/badge/C%23-.NET%20Core-purple" />
-  <img src="https://img.shields.io/badge/Python-Scripting-green" />
-  <img src="https://img.shields.io/badge/SQL-TSQL%20%7C%20PL%2FpgSQL-lightgrey" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-JS-61dafb" />
-  <img src="https://img.shields.io/badge/Next.js-13%2B-black" />
-  <img src="https://img.shields.io/badge/HTML5--orange" />
-  <img src="https://img.shields.io/badge/CSS3--blue" />
-  <img src="https://img.shields.io/badge/TailwindCSS--06b6d4" />
-  <img src="https://img.shields.io/badge/Material%20UI-MUI-blueviolet" />
-</p>
-
-### 🧭 Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET-Core-512BD4" />
-  <img src="https://img.shields.io/badge/Node.js--brightgreen" />
-  <img src="https://img.shields.io/badge/REST-API-orange" />
-  <img src="https://img.shields.io/badge/SignalR-Realtime-lightgrey" />
-</p>
-
-### 🗄 Databases & Reporting
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-2017%2B-CC2927" />
-  <img src="https://img.shields.io/badge/PostgreSQL--316192" />
-  <img src="https://img.shields.io/badge/MySQL--4479A1" />
-  <img src="https://img.shields.io/badge/Grafana-Dashboards-orange" />
-  <img src="https://img.shields.io/badge/Power%20BI-Reports-yellow" />
-</p>
-
-### 🏗 DevOps, Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Windows%20Server-IIS-lightgrey" />
-  <img src="https://img.shields.io/badge/Cloudflare-Tunnels%20%7C%20DNS-orange" />
-  <img src="https://img.shields.io/badge/pfSense-Firewall-blue" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED" />
-  <img src="https://img.shields.io/badge/Git-GitHub-181717" />
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC" />
-</p>
-
-### 🧾 Business & ERP
-<p>
-  <img src="https://img.shields.io/badge/ERPNext-Custom%20Apps-3A5A98" />
-  <img src="https://img.shields.io/badge/Odoo-Implementation-714B67" />
-  <img src="https://img.shields.io/badge/Fleet%20Management-Tracking%20%26%20Telematics-success" />
-</p>
+# 💫 About Me:
+🚀 Full Stack Developer working on **ERP systems, Fleet Tracking Platforms, MDVR Dashboards, and School Management Systems**  
+💼 Serving as **Head of Projects & Technical Sales** (ERPNext, Odoo, Custom Enterprise Platforms)  
+🧠 Strong in **React, Next.js, ASP.NET Core, SQL Server, PostgreSQL, Grafana**  
+📡 Expert in **Vehicle Tracking, Temperature Monitoring, MDVR Video Retrieval, Reports & Telemetry Data**  
+⚙️ Skilled in **Cloudflare Tunnels, IIS Deployment, pfSense Firewalls, Docker, Windows Servers**  
+📊 Passionate about building **high-performance dashboards, real-time tracking systems, and enterprise apps**  
+🤖 Exploring **AI integrations, SDK automation, Agents, and AI-powered documentation systems**  
+📚 Always helping teams with **step-by-step guides, debugging, deployments, and system optimization**
 
 ---
 
-## 📈 GitHub Status
+# 💻 Tech Stack:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahteck&show_icons=true&theme=tokyonight" alt="Shoaib's GitHub stats" />
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahteck&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-orange?style=for-the-badge&logo=grafana&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-blue?style=for-the-badge&logo=fortinet&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🔗 Connect With Me
+<div align="center">
 
-<!-- Replace `#` with your actual links -->
+# 📊 GitHub Status:
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shoaibmunir88/(#)
-- 🌐 Portfolio / Website: https://mateck.com(#)
-- 📧 Email: **mahteckteach@gmail.com**
+![](https://github-readme-stats.vercel.app/api?username=mahteck&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahteck&theme=dark&hide_border=false&layout=compact)
 
-> Feel free to reach out for collaboration, consulting, or just a technical discussion about fleet tracking, ERP, or AI-driven systems.
+![](https://nirzak-streak-stats.vercel.app/?user=mahteck&theme=dark&hide_border=false)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![snake gif](https://github.com/mahteck/mahteck/blob/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center" style="margin-top: 2rem;">
+  <img src="https://komarev.com/ghpvc/?username=mahteck&label=Profile%20views&color=14B8A6&style=flat" alt="Profile Views" />
+</div>
