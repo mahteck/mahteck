@@ -12,12 +12,12 @@
 # 💫 About Me:
 🚀 Full Stack Developer working on **ERP systems, Fleet Tracking Platforms, MDVR Dashboards, and School Management Systems**  
 💼 Serving as **Head of Projects & Technical Sales** (ERPNext, Odoo, Custom Enterprise Platforms)  
-🧠 Strong in **React, Next.js, ASP.NET Core, SQL Server, PostgreSQL, Grafana**  
-📡 Expert in **Vehicle Tracking, Temperature Monitoring, MDVR Video Retrieval, Reports & Telemetry Data**  
+🧠 Expert in **React, Next.js, ASP.NET Core, SQL Server, PostgreSQL, Grafana, API Integrations**  
+📡 Specialized in **Vehicle Tracking, Temperature Monitoring, MDVR Video Retrieval, Telemetry Reporting**  
 ⚙️ Skilled in **Cloudflare Tunnels, IIS Deployment, pfSense Firewalls, Docker, Windows Servers**  
-📊 Passionate about building **high-performance dashboards, real-time tracking systems, and enterprise apps**  
-🤖 Exploring **AI integrations, SDK automation, Agents, and AI-powered documentation systems**  
-📚 Always helping teams with **step-by-step guides, debugging, deployments, and system optimization**
+📊 Passionate about building **real-time dashboards, enterprise applications, and secure infrastructure**  
+🤖 Exploring **AI SDKs, Automation, Agents, and AI-powered documentation systems**  
+📚 Known for creating **step-by-step debugging, deployment & optimization guides** for engineering teams  
 
 ---
 
@@ -70,10 +70,11 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmunir88/)
+[![Website](https://img.shields.io/badge/Website-0A0A0A.svg?logo=google-chrome&logoColor=white)](http://mahteck.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahteckteach@gmail.com)
 
 </div>
 
